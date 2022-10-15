@@ -1,0 +1,10 @@
+D:\source\repos\AssetManip\AssetManip\bin\Debug\AssetManip.exe.config
+D:\source\repos\AssetManip\AssetManip\bin\Debug\AssetManip.exe
+D:\source\repos\AssetManip\AssetManip\bin\Debug\AssetManip.pdb
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.csproj.AssemblyReference.cache
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.Properties.Resources.resources
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.csproj.GenerateResource.cache
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.csproj.CoreCompileInputs.cache
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.exe
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.pdb
+D:\source\repos\AssetManip\AssetManip\obj\Debug\AssetManip.MainForm.resources
